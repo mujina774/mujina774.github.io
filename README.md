@@ -1,10 +1,11 @@
-## Weather Report
+## 観天望気
+[免責宣言] NASAのサイトにも書かれてる様に、此処に表示されてるデータは一般向けのプレゼンテーション用で、「科学的」な探索は目的としていません。娯楽として御覧下さい。本データサイトは ["WATER VAPOR (1 MONTH - AQUA/MODIS)"](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV)。   
 
-## Water vapor in the atmosphere ([Atmospheric Water Vapor images from NASA](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV))
-The upper image is in 2003 and the middle is in 2023, the bottom is the difference of the above 2 images, in which redeced pixels are in black, and increased pixels are in whote.
+## 大気中の水蒸気画像 ([NASA](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV))
+上は2003年、真中は2023年の一年間の平均画像です。下の画像は2003年と2023年の差分で、現象したピクセルが黒、増加したピクセルが白です。
 ![](Images/aqua_ave+.png)
 
-## Animation of annual average images from 2003 to 2023.
-The source images are from ["WATER VAPOR (1 MONTH - AQUA/MODIS)"](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV). The upper images are in 2003 and lower images are 2023.
+## 大気中水蒸気の通年変化
+上が2003年、下が2023年です。
 ![](Images/scomb0323.gif)
 
