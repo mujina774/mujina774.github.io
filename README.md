@@ -9,3 +9,6 @@
 上が2003年、下が2023年です。
 ![](Images/scomb0323.gif)
 
+## [Credits of original images](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV)
+Imagery produced by the NASA Earth Observations team based on data provided by the MODIS Atmosphere Science Team, NASA Goddard Space Flight Center.
+
