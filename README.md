@@ -1,5 +1,6 @@
 ## 観天望気
-[免責宣言] NASAのサイトにも書かれてる様に、此処に表示されてるデータは一般向けのプレゼンテーション用で、「科学的」な探索は目的としていません。娯楽として御覧下さい。元データサイトは ["WATER VAPOR (1 MONTH - AQUA/MODIS)"](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV)。   
+[免責宣言] NASAのサイトにも書かれてる様に、此処に表示されてるデータは一般向けのプレゼンテーション用で、「科学的」な探索は目的としていません。娯楽として御覧下さい。元データサイトはアメリカ航空宇宙局 (NASA) ["WATER VAPOR (1 MONTH - AQUA/MODIS)"](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV)で、画像ファイルはpngを利用してます。当サイトのデータの「科学的」な利用についてはブログ[DATA-LIKE FILE FORMATS: CSV AND FLOATING POINT GEOTIFFS](https://neo.gsfc.nasa.gov/blog/2013/12/23/csv-and-floating-point-geotiffs/)に詳しい説明が有ります。以下、引用です。 
+>  At best they are useful for basic analysis and trend detection but if you are interested in conducting research-level science we recommend that you use the original source data (which are not hosted by NEO, but we can assist you in identifying the source).
 
 ## 大気中の水蒸気画像 ([NASA](https://neo.gsfc.nasa.gov/view.php?datasetId=MYDAL2_M_SKY_WV))
 上は2003年、中は2023年の一年間の平均画像です。下の画像は2003年と2023年の差分で、減少したピクセルが黒、増加したピクセルが白です。
