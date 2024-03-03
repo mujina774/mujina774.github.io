@@ -16,4 +16,4 @@
 | --- | --- |
 |![](Images/vgtimeCoursesAnnual.png) | ![](Images/vgtimeCoursesAnnual-exp.png) |
 
-  ![ホームページに戻る](README.md)
+  [ホームページに戻る](README.md)
