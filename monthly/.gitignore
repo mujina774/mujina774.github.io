@@ -1,0 +1,5 @@
+*.bz2
+
+# Apple:
+.DS_Store
+._*
