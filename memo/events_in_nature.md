@@ -8,3 +8,4 @@
 | 農業| 07-June|[日本一のさくらんぼの産地で「佐藤錦」の収穫が盛んに 山形](https://www3.nhk.or.jp/news/html/20240607/k10014472791000.html)|
 | 人間 | 10-06-2024 | [在这样的高温下，一位年轻的女孩不幸中暑，倒在了炙热的山路上。](https://baijiahao.baidu.com/s?id=1801466821813907515)|
 |  農業 | 12-06-2024 | [コメの価格が上昇 “低価格帯が不足気味”報告も - NHK](https://www3.nhk.or.jp/news/html/20240612/k10014478961000.html)|
+|  虫 | 12-06-2024 | [Brace yourself as the city is being invaded by termites - 上海日報](https://www.shine.cn/news/metro/2406129611/)|
