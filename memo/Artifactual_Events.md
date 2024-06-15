@@ -7,3 +7,5 @@
 |  |  |The islands are too crowded, because they are keep on producing kids. It is greed.|
 |飛行機  |  |[China's HH-100 commercial unmanned transport system](https://www.shine.cn/biz/tech/2406124737/)|
 | | | ![](https://obj.shine.cn/files/2024/06/12/f6929336-3353-4e1e-9e14-bf5dacea25ff_0.jpg)|
+| お金| 16-06-2024| ![Children can't make 'cents' of real money. Is it worrisome?]([https://obj.shine.cn/files/2024/06/12/f6929336-3353-4e1e-9e14-bf5dacea25ff_0.jpg](https://www.shine.cn/opinion/2406152838/))|
+|||![](https://obj.shine.cn/files/2024/06/15/42de2c74-8415-4a27-9e1d-0e519fd6741d_0.jpg)|
