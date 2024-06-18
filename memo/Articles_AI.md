@@ -6,9 +6,11 @@
 | マーケティング| 10-06-2024|[電通、3D空間メディアのマーケティング効果を測る指標 「ブランドイマーシブタイム」を提唱](https://www.dentsu.co.jp/news/release/2024/0610-010736.html)|
 | マーケティング  |11-06-2024  | [アップル、AI本格展開　個人をアシストする「Apple Intelligence」](https://www.watch.impress.co.jp/docs/news/1598988.html)|
 | マーケティング | 21-05-2024 | [Copilot+ PCは、コンピュータが人間を理解する第一歩になる](https://pc.watch.impress.co.jp/docs/news/1593286.html)|
+| | |"Copilot+ PC向けに提供されるWindows標準のAIアプリケーションのデモを行ない、「Recall」、「Cocreator」、「Live Captions」などのデモを行なった。こうしたWindows標準のAIアプリケーションはCopilot+ PC向けに提供され、SurfaceとともにMicrosoftのオンデバイスAIソリューションの「ショーケース」の役目を果たすことになる。 "|
 | マーケティング |  21-05-2024  | [マイクロソフトのAIパソコン「Copilot+ PC」がすごいところ](https://ascii.jp/elem/000/004/199/4199745/)|
 |マイクロソフト  |   21-05-2024  | [Copilot+ PC の紹介](https://news.microsoft.com/ja-jp/2024/05/21/240521-introducing-copilot-pcs/)|
-
+| 評論 ([wired.jp](https://wired.jp/article/apple-intelligence-ai-feature-not-product/) )|15-06-2024 | "「製品としてのAI」ではなく「機能としてのAI」へのシフト"|
+| ||"ブラウザーの新しいウィンドウやアプリを開いたり、カット&ペーストをしたり、ときにはチャットボットの熱に浮かされたようなまとまりのない言葉を理解しようと努めたりする行為を伴うものだった。"|
 
 | Apple Intelligence | | &#xf8ff; |
 | --- | --- | --- |
