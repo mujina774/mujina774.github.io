@@ -10,3 +10,4 @@
 |  農業 | 12-06-2024 | [コメの価格が上昇 “低価格帯が不足気味”報告も - NHK](https://www3.nhk.or.jp/news/html/20240612/k10014478961000.html)|
 |  虫 | 12-06-2024 | [Brace yourself as the city is being invaded by termites - 上海日報](https://www.shine.cn/news/metro/2406129611/)|
 |食糧確保|17-06-2024|[コメ不足感じわり、長野県内スーパー「大量購入控えて」](https://www.shinmai.co.jp/news/article/CNTS2024060601103)|
+|漁|19-06-2024|[函館 不漁のスルメイカ ますます手が届かない存在に？](https://www3.nhk.or.jp/news/html/20240619/k10014484351000.html)|
