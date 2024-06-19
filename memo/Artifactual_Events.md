@@ -10,3 +10,4 @@
 | お金| 16-06-2024| ![Children can't make 'cents' of real money. Is it worrisome?]([https://obj.shine.cn/files/2024/06/12/f6929336-3353-4e1e-9e14-bf5dacea25ff_0.jpg](https://www.shine.cn/opinion/2406152838/))|
 |||![](https://obj.shine.cn/files/2024/06/15/42de2c74-8415-4a27-9e1d-0e519fd6741d_0.jpg)|
 |農政 | 18-06-2024 | [China allocates US$62.26 mln to fight drought, aid summer planting](https://www.shine.cn/news/nation/2406182299/)|
+| 政治| 19-06-2024 |  [プーチン大統領 キム総書記 首脳会談](https://www3.nhk.or.jp/news/html/20240619/k10014485041000.html)|
