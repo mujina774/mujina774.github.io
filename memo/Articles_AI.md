@@ -14,7 +14,9 @@
 |  マーケティング   | 20-06-2024  |[グーグル 47都道府県の地域課題に特化したAIモデル開発へ](https://www3.nhk.or.jp/news/html/20240619/k10014485861000.html)|
 |  マーケティング   | 20-06-2024  |[グーグルの生成AI検索「AI Overviews」　日本でも年内開始](https://www.watch.impress.co.jp/docs/news/1601508.html)|
 |  マーケティング   | 20-06-2024  |[「Google for Japan」開幕、日本がリードするグーグルの最新技術を紹介](https://k-tai.watch.impress.co.jp/docs/news/1601557.html)|
+| 検索| 20-06-2024 | [グーグル、「ハッシュタグ検索」を開始　日本発の“推し”検索](https://www.watch.impress.co.jp/docs/news/1601174.html) |
 
+### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
 | --- | --- | --- |
 |  |   | |
@@ -26,14 +28,19 @@
 | | |What’s new in App Intents[🍎](https://developer.apple.com/videos/play/wwdc2024/10134/)|
 |App Intents [🍎](https://developer.apple.com/documentation/appintents)||Make your app’s content and actions discoverable with system experiences like Spotlight, widgets, and enhanced action capabilities of Siri, powered by Apple Intelligence.[🍎](https://developer.apple.com/videos/play/wwdc2024/10134/)|
 
+### MicroSoft Copilot + PC
+
 |MicroSoft | |  |
 | -- | -- | ------- |
 |  |  |[Cortana のサポート終了](https://support.microsoft.com/ja-jp/topic/cortana-%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86-d025b39f-ee5b-4836-a954-0ab646ee1efa)|
+
+### Google Gemini
 
 |Google | |  |
 | -- | -- | ------- |
 |  |  |[AI で日本のさらなる可能性を 〜 Google for Japan 2024 〜](https://blog.google/intl/ja-jp/company-news/technology/ai-google-for-japan-2024/)|
 | | | ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G4J_logo.width-1200.format-webp.webp)|
 | 日本法人代表| 19-06-2024 |[日本におけるAIの 可能性に向けた提言](https://static.googleusercontent.com/media/publicpolicy.google/en//resources/japan_ai_opportunity_agenda_ja.pdf) |
+
 
 
