@@ -11,6 +11,8 @@
 |マイクロソフト  |   21-05-2024  | [Copilot+ PC の紹介](https://news.microsoft.com/ja-jp/2024/05/21/240521-introducing-copilot-pcs/)|
 | 評論 ([wired.jp](https://wired.jp/article/apple-intelligence-ai-feature-not-product/) )|15-06-2024 | "「製品としてのAI」ではなく「機能としてのAI」へのシフト"|
 | ||"ブラウザーの新しいウィンドウやアプリを開いたり、カット&ペーストをしたり、ときにはチャットボットの熱に浮かされたようなまとまりのない言葉を理解しようと努めたりする行為を伴うものだった。"|
+|  マーケティング   | 20-06-2024  |[グーグル 47都道府県の地域課題に特化したAIモデル開発へ](https://www3.nhk.or.jp/news/html/20240619/k10014485861000.html)|
+|  マーケティング   | 20-06-2024  |[グーグルの生成AI検索「AI Overviews」　日本でも年内開始](https://www.watch.impress.co.jp/docs/news/1601508.html)|
 
 | Apple Intelligence | | &#xf8ff; |
 | --- | --- | --- |
@@ -27,3 +29,7 @@
 | -- | -- | ------- |
 |  |  |[Cortana のサポート終了](https://support.microsoft.com/ja-jp/topic/cortana-%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86-d025b39f-ee5b-4836-a954-0ab646ee1efa)|
 
+|Google | |  |
+| -- | -- | ------- |
+|  |  |[AI で日本のさらなる可能性を 〜 Google for Japan 2024 〜](https://blog.google/intl/ja-jp/company-news/technology/ai-google-for-japan-2024/)|
+| | | ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G4J_logo.width-1200.format-webp.webp)|
