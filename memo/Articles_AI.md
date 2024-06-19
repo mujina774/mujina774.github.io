@@ -13,6 +13,7 @@
 | ||"ブラウザーの新しいウィンドウやアプリを開いたり、カット&ペーストをしたり、ときにはチャットボットの熱に浮かされたようなまとまりのない言葉を理解しようと努めたりする行為を伴うものだった。"|
 |  マーケティング   | 20-06-2024  |[グーグル 47都道府県の地域課題に特化したAIモデル開発へ](https://www3.nhk.or.jp/news/html/20240619/k10014485861000.html)|
 |  マーケティング   | 20-06-2024  |[グーグルの生成AI検索「AI Overviews」　日本でも年内開始](https://www.watch.impress.co.jp/docs/news/1601508.html)|
+|  マーケティング   | 20-06-2024  |[「Google for Japan」開幕、日本がリードするグーグルの最新技術を紹介](https://k-tai.watch.impress.co.jp/docs/news/1601557.html)|
 
 | Apple Intelligence | | &#xf8ff; |
 | --- | --- | --- |
