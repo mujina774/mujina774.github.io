@@ -14,4 +14,7 @@
 | 農業| 20-06-2024| [コメの価格上昇 なぜ？ スーパーや飲食店は…](https://www3.nhk.or.jp/news/html/20240620/k10014486121000.html) |
 |電網犯罪| 14-06-2024 |[ニコ動｢復旧に1カ月以上｣　ランサムウエアなど複数攻撃](https://www.nikkei.com/article/DGXZQOUC146RH0U4A610C2000000/) |
 |電網犯罪| 21-06-2024 |[JAXAに複数回サイバー攻撃 情報が漏えいした可能性](https://www3.nhk.or.jp/news/html/20240621/k10014487721000.html)|
-|電網犯罪| 21-06-2024 | [米シスコ、都内にサイバーセキュリティー拠点　産官連携](https://www.nikkei.com/article/DGXZQODK210H40R20C24A6000000/) |
+|電網犯罪| 21-06-2024 | [米シスコ、都内にサイバーセキュリティー拠点　産官連携, 日経](https://www.nikkei.com/article/DGXZQODK210H40R20C24A6000000/) |
+|外交| 21-06-2024 | [日本とロシアの外務省局長が会談 ウクライナ侵攻後は初](https://www3.nhk.or.jp/news/html/20240622/k10014488991000.html) |
+|外交| 21-06-2024 | [政府 中国など拠点企業に制裁決定 中国 “断固反対”](https://www3.nhk.or.jp/news/html/20240621/k10014488651000.html) |
+|外交| 21-06-2024 | [China firmly opposes Japan's illegal unilateral sanctions - 上海日報](https://www.shine.cn/news/nation/2406219435/) |
