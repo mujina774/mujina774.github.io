@@ -16,11 +16,11 @@
 |  マーケティング   | 20-06-2024  |[「Google for Japan」開幕、日本がリードするグーグルの最新技術を紹介](https://k-tai.watch.impress.co.jp/docs/news/1601557.html)|
 | 検索| 20-06-2024 | [グーグル、「ハッシュタグ検索」を開始　日本発の“推し”検索](https://www.watch.impress.co.jp/docs/news/1601174.html) |
 | 評論| 22-06-2024|[海のものとも、山のものともつかないモラトリアム](https://pc.watch.impress.co.jp/docs/column/config/1602336.html)|
+| 華為技術 | 22-06-2024 |[Huawei's system upgrade breaks a 'two-horse race'](https://www.shine.cn/biz/company/2406219336/) |
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
 | --- | --- | --- |
-|  |   | |
 |  | Public | - [Write with intelligent new tools. Everywhere words matter.]()|
 |  |  | - Delightful images created just for you.|
 ||| - Discover an even more capable, integrated, personal Siri.|
@@ -31,16 +31,16 @@
 
 ### MicroSoft Copilot + PC
 
-|MicroSoft | |  |
+|MicroSoft | 日付 | 発表 |
 | -- | -- | ------- |
-|  |  |[Cortana のサポート終了](https://support.microsoft.com/ja-jp/topic/cortana-%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86-d025b39f-ee5b-4836-a954-0ab646ee1efa)|
+|  | ?? |[Cortana のサポート終了](https://support.microsoft.com/ja-jp/topic/cortana-%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86-d025b39f-ee5b-4836-a954-0ab646ee1efa)|
 
 ### Google Gemini
 
-|Google | |  |
+|Google | 日付 | 発表 |
 | -- | -- | ------- |
-|  |  |[AI で日本のさらなる可能性を 〜 Google for Japan 2024 〜](https://blog.google/intl/ja-jp/company-news/technology/ai-google-for-japan-2024/)|
-| | | ![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G4J_logo.width-1200.format-webp.webp)|
+| 日本法人  | 19-06-2024 |[AI で日本のさらなる可能性を 〜 Google for Japan 2024 〜](https://blog.google/intl/ja-jp/company-news/technology/ai-google-for-japan-2024/)|
+| |  | ![](G4J_logo.width-1200.png)|
 | 日本法人代表| 19-06-2024 |[日本におけるAIの 可能性に向けた提言](https://static.googleusercontent.com/media/publicpolicy.google/en//resources/japan_ai_opportunity_agenda_ja.pdf) |
 
 
