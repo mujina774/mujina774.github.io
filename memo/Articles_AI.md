@@ -15,6 +15,7 @@
 |  マーケティング   | 20-06-2024  |[グーグルの生成AI検索「AI Overviews」　日本でも年内開始](https://www.watch.impress.co.jp/docs/news/1601508.html)|
 |  マーケティング   | 20-06-2024  |[「Google for Japan」開幕、日本がリードするグーグルの最新技術を紹介](https://k-tai.watch.impress.co.jp/docs/news/1601557.html)|
 | 検索| 20-06-2024 | [グーグル、「ハッシュタグ検索」を開始　日本発の“推し”検索](https://www.watch.impress.co.jp/docs/news/1601174.html) |
+| 評論| 22-06-2024|[海のものとも、山のものともつかないモラトリアム](https://pc.watch.impress.co.jp/docs/column/config/1602336.html)|
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
