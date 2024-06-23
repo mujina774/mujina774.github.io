@@ -1,11 +1,11 @@
 ## Insects:
 |分類| 日付 | 事象 |
 | -- | --: | -- |
-| 虫|29-May| [異変 “梅が不作で…” イベント中止も 埼玉 越生町, NHK News](https://www3.nhk.or.jp/news/html/20240529/k10014464411000.html) |
-| 干旱| 30-May |[オレンジジュース 一部の商品 販売休止や値上げの動き広がる](https://www3.nhk.or.jp/news/html/20240530/k10014465021000.html) |
-| 漁|05-June|[記録的不漁続くスルメイカ 今季初水揚げも大幅減 北海道 函館](https://www3.nhk.or.jp/news/html/20240605/k10014471631000.html)|
-| 農業| 06-June|[梅の収穫期なのに… “近年まれに見る不作” 価格にも影響が](https://www3.nhk.or.jp/news/html/20240606/k10014472501000.html)|
-| 農業| 07-June|[日本一のさくらんぼの産地で「佐藤錦」の収穫が盛んに 山形](https://www3.nhk.or.jp/news/html/20240607/k10014472791000.html)|
+| 虫|29-05-2024| [異変 “梅が不作で…” イベント中止も 埼玉 越生町, NHK News](https://www3.nhk.or.jp/news/html/20240529/k10014464411000.html) |
+| 干旱| 30-05-2024 |[オレンジジュース 一部の商品 販売休止や値上げの動き広がる](https://www3.nhk.or.jp/news/html/20240530/k10014465021000.html) |
+| 漁|05-06-2024|[記録的不漁続くスルメイカ 今季初水揚げも大幅減 北海道 函館](https://www3.nhk.or.jp/news/html/20240605/k10014471631000.html)|
+| 農業| 06-06-2024|[梅の収穫期なのに… “近年まれに見る不作” 価格にも影響が](https://www3.nhk.or.jp/news/html/20240606/k10014472501000.html)|
+| 農業| 07-06-2024|[日本一のさくらんぼの産地で「佐藤錦」の収穫が盛んに 山形](https://www3.nhk.or.jp/news/html/20240607/k10014472791000.html)|
 | 人間 | 10-06-2024 | [在这样的高温下，一位年轻的女孩不幸中暑，倒在了炙热的山路上。](https://baijiahao.baidu.com/s?id=1801466821813907515)|
 |  農業 | 12-06-2024 | [コメの価格が上昇 “低価格帯が不足気味”報告も - NHK](https://www3.nhk.or.jp/news/html/20240612/k10014478961000.html)|
 |  虫 | 12-06-2024 | [Brace yourself as the city is being invaded by termites - 上海日報](https://www.shine.cn/news/metro/2406129611/)|
@@ -18,3 +18,4 @@
 |外交| 21-06-2024 | [日本とロシアの外務省局長が会談 ウクライナ侵攻後は初](https://www3.nhk.or.jp/news/html/20240622/k10014488991000.html) |
 |外交| 21-06-2024 | [政府 中国など拠点企業に制裁決定 中国 “断固反対”](https://www3.nhk.or.jp/news/html/20240621/k10014488651000.html) |
 |外交| 21-06-2024 | [China firmly opposes Japan's illegal unilateral sanctions - 上海日報](https://www.shine.cn/news/nation/2406219435/) |
+|民意|  23-06-2024 | [日本の子どもや若者「自分自身に満足」57％ 各国比で最低](https://www3.nhk.or.jp/news/html/20240623/k10014489391000.html) |
