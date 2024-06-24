@@ -12,10 +12,4 @@
 | 食糧確保|17-06-2024|[コメ不足感じわり、長野県内スーパー「大量購入控えて」](https://www.shinmai.co.jp/news/article/CNTS2024060601103)|
 | 漁|19-06-2024|[函館 不漁のスルメイカ ますます手が届かない存在に？](https://www3.nhk.or.jp/news/html/20240619/k10014484351000.html)|
 | 農業| 20-06-2024| [コメの価格上昇 なぜ？ スーパーや飲食店は…](https://www3.nhk.or.jp/news/html/20240620/k10014486121000.html) |
-|電網犯罪| 14-06-2024 |[ニコ動｢復旧に1カ月以上｣　ランサムウエアなど複数攻撃](https://www.nikkei.com/article/DGXZQOUC146RH0U4A610C2000000/) |
-|電網犯罪| 21-06-2024 |[JAXAに複数回サイバー攻撃 情報が漏えいした可能性](https://www3.nhk.or.jp/news/html/20240621/k10014487721000.html)|
-|電網犯罪| 21-06-2024 | [米シスコ、都内にサイバーセキュリティー拠点　産官連携, 日経](https://www.nikkei.com/article/DGXZQODK210H40R20C24A6000000/) |
-|外交| 21-06-2024 | [日本とロシアの外務省局長が会談 ウクライナ侵攻後は初](https://www3.nhk.or.jp/news/html/20240622/k10014488991000.html) |
-|外交| 21-06-2024 | [政府 中国など拠点企業に制裁決定 中国 “断固反対”](https://www3.nhk.or.jp/news/html/20240621/k10014488651000.html) |
-|外交| 21-06-2024 | [China firmly opposes Japan's illegal unilateral sanctions - 上海日報](https://www.shine.cn/news/nation/2406219435/) |
-|民意|  23-06-2024 | [日本の子どもや若者「自分自身に満足」57％ 各国比で最低](https://www3.nhk.or.jp/news/html/20240623/k10014489391000.html) |
+| 農業 | 24-06-2024 | [京都 城陽 特産の梅「城州白」を使った梅酒の仕込み始まる](https://www3.nhk.or.jp/news/html/20240624/k10014490561000.html) |
