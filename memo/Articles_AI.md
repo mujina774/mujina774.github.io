@@ -19,6 +19,8 @@
 | 華為技術 | 22-06-2024 |[Huawei's system upgrade breaks a 'two-horse race'](https://www.shine.cn/biz/company/2406219336/) |
 | 能力 | 26-06-2024 | [いい意味でヤバいClaude 3.5 Sonnet！6月ホットなAI関連話題を総ざらい](https://pc.watch.impress.co.jp/docs/column/nishikawa/1602697.html) |
 |||"Claude 3.5 Sonnetが出したコードは完全に正解。ほかにも実践的な内容を尋ねてもほぼ正解。これには筆者も正直驚いてしまった次第だ。"|
+| 評論| 27-06-2024|[生成AIのバブルはいつ弾ける？](https://pc.watch.impress.co.jp/docs/column/tidbit/1603220.html)|
+|||生成AIのマーケットの売上と呼ばれているものの半分位がNVIDIAの売上だったりする。|
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
