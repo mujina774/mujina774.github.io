@@ -21,6 +21,8 @@
 |||"Claude 3.5 Sonnetが出したコードは完全に正解。ほかにも実践的な内容を尋ねてもほぼ正解。これには筆者も正直驚いてしまった次第だ。"|
 | 評論| 27-06-2024|[生成AIのバブルはいつ弾ける？](https://pc.watch.impress.co.jp/docs/column/tidbit/1603220.html)|
 |||生成AIのマーケットの売上と呼ばれているものの半分位がNVIDIAの売上だったりする。|
+|生成現実 | 01-07-2024 | [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html) |
+|生成現実 | 19-06-2024  | [XREALが「空間ビデオ撮影可能なAndroidデバイス」発売。CEOに開発意図を聞いた](https://av.watch.impress.co.jp/docs/series/rt/1600879.html) |
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
