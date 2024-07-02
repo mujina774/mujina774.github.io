@@ -22,6 +22,8 @@
 | 評論| 27-06-2024|[生成AIのバブルはいつ弾ける？](https://pc.watch.impress.co.jp/docs/column/tidbit/1603220.html)|
 |||生成AIのマーケットの売上と呼ばれているものの半分位がNVIDIAの売上だったりする。|
 |生成現実 | 01-07-2024 | [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html) |
+|生成現実 | 11-06-2024 |[「Apple Vision Pro」日本発売、どんなところが変わっていくのか](https://av.watch.impress.co.jp/docs/series/rt/1599087.html)|
+| | | 「没入感のある新しいコンテンツ制作の後押しが始まっている」|
 |生成現実 | 19-06-2024  | [XREALが「空間ビデオ撮影可能なAndroidデバイス」発売。CEOに開発意図を聞いた](https://av.watch.impress.co.jp/docs/series/rt/1600879.html) |
 |生成現実 | 02-07-2024| [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html)|
 
