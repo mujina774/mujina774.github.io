@@ -23,6 +23,7 @@
 |||生成AIのマーケットの売上と呼ばれているものの半分位がNVIDIAの売上だったりする。|
 |生成現実 | 01-07-2024 | [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html) |
 |生成現実 | 19-06-2024  | [XREALが「空間ビデオ撮影可能なAndroidデバイス」発売。CEOに開発意図を聞いた](https://av.watch.impress.co.jp/docs/series/rt/1600879.html) |
+|生成現実 | 02-07-2024| [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html)|
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
@@ -34,6 +35,13 @@
 ||  |   - Siri can understand content from your app and provide users with information from your app from anywhere in the system..|
 | | |What’s new in App Intents[🍎](https://developer.apple.com/videos/play/wwdc2024/10134/)|
 |App Intents [🍎](https://developer.apple.com/documentation/appintents)||Make your app’s content and actions discoverable with system experiences like Spotlight, widgets, and enhanced action capabilities of Siri, powered by Apple Intelligence.[🍎](https://developer.apple.com/videos/play/wwdc2024/10134/)|
+
+### Apple Vision Pro
+
+| Apple Intelligence | | &#xf8ff; |
+| --- | --- | --- |
+|生成現実 |Feb. 2024 | [ A Guided Tour of Apple Vision Pro](https://www.youtube.com/watch?v=Vb0dG-2huJE) |
+|生成現実 |Feb. 2024| [Introducing Apple Vision Pro](https://www.youtube.com/watch?v=TX9qSaGXFyg) |
 
 ### MicroSoft Copilot + PC
 
