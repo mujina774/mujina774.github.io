@@ -27,6 +27,9 @@
 |生成現実 | 19-06-2024  | [XREALが「空間ビデオ撮影可能なAndroidデバイス」発売。CEOに開発意図を聞いた](https://av.watch.impress.co.jp/docs/series/rt/1600879.html) |
 |生成現実 | 02-07-2024| [「映像」から見るApple Vision Proの本気度](https://www.watch.impress.co.jp/docs/series/nishida/1604390.html)|
 |生成現実 | 04-07-2024 | [Apple副社長と対談。Apple Vision Proは世界を変えるのか？ with Bob Borchers](https://www.youtube.com/watch?v=pSry1XLbS00) |
+| 量個知能 | 05-07-202 |[AI PCは今後3年でPC出荷全体の60%に。Lenovoのルカ・ロッシが予測](https://pc.watch.impress.co.jp/docs/column/gyokai/1605861.html)|
+||| "自分のことを、自分よりも知ってくれるような存在" |
+
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
