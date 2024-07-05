@@ -29,7 +29,8 @@
 |生成現実 | 04-07-2024 | [Apple副社長と対談。Apple Vision Proは世界を変えるのか？ with Bob Borchers](https://www.youtube.com/watch?v=pSry1XLbS00) |
 | 量個知能 | 05-07-202 |[AI PCは今後3年でPC出荷全体の60%に。Lenovoのルカ・ロッシが予測](https://pc.watch.impress.co.jp/docs/column/gyokai/1605861.html)|
 ||| "自分のことを、自分よりも知ってくれるような存在" |
-
+| 生成現実 | xx-06-202| [Apple Vision Proを3ヶ月間使って感じた本音。](https://www.youtube.com/watch?v=fGAym_JlufA) |
+||| "Apple製品ってその製品を通じて人と人をとつなげたりとかクリエーティブな創作活動を行なったりとか、... その要素が欠けてる" |
 
 ### Apple Intelligents
 | Apple Intelligence | | &#xf8ff; |
