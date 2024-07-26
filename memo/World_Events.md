@@ -13,3 +13,5 @@
 | 政治| 19-06-2024 |  [プーチン大統領 キム総書記 首脳会談](https://www3.nhk.or.jp/news/html/20240619/k10014485041000.html)|
 | 宗教 | 20-06-2024 | [Loved ones search for missing as hajj death toll passes 900](https://www.shine.cn/news/world/2406207518/)|
 ||| ![](https://obj.shine.cn/files/2024/06/20/c7b4d4dd-5d6e-4ff4-a2a9-6cc92bba2f7b_0.jpg)|
+| 戦争 |26-07-2024|[ウクライナ高官 トランプ氏へ支援継続に向けて訪問働きかけへ](https://www3.nhk.or.jp/news/html/20240726/k10014524191000.html)|
+|||"「戦争とはどういうものか、実際に見れば感情的にも理解が深まるだろう」"ポドリャク, クライナ大統領府顧問|
