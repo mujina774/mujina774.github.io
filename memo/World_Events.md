@@ -16,3 +16,5 @@
 | 戦争 |26-07-2024|[ウクライナ高官 トランプ氏へ支援継続に向けて訪問働きかけへ](https://www3.nhk.or.jp/news/html/20240726/k10014524191000.html)|
 |||"「戦争とはどういうものか、実際に見れば感情的にも理解が深まるだろう」"ポドリャク, クライナ大統領府顧問|
 | 温暖化 | 28-07-2024 | [Iran announces 1-day nationwide closures due to unprecedented heat](https://www.shine.cn/news/world/2407279727/) |
+| 回教 |05-08-2024|[How the prime minister’s crackdown weakened her grip on power.](https://www.nytimes.com/live/2024/08/05/world/bangladesh-protests/the-prime-ministers-crackdown-rained-carnage-on-bangladesh?smid=url-share)|
+|||![](https://static01.nyt.com/images/2024/08/05/multimedia/05bangladesh-hasina-VERSION-rock/05bangladesh-hasina-VERSION-rock-jumbo-v2.jpg)|
