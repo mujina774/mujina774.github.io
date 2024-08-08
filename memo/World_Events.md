@@ -1,6 +1,7 @@
 # Events
 |分類 | 日時 | 元記事 |
 | --: | --: | -- |
+| 政治 | 25-10-2024 |[Press statement by President von der Leyen with Bangladesh Prime Minister Sheikh Hasina ahead of the signature of a Renewable Energy Package and Annual Action Plan 2023](https://ec.europa.eu/commission/presscorner/detail/en/statement_23_5302)|
 | 人工知能 | 05-06-2024 | [Stanford AI team apologizes for plagiarizing Chinese university's model](https://english.news.cn/20240605/3583ee9143d844758ba3a7ef26170e6d/c.html)|
 ||同上|[Project author team stay tuned: I found out that the llama3-V project is stealing a lot of academic work from MiniCPM-Llama3-V 2.5 (GIthub)](https://github.com/OpenBMB/MiniCPM-V/issues/196)|
 | 過密| 09-06-2024| [Threatened by rising seas, the first of Panama’s Indigenous islanders are forced to leave (CNN)](https://edition.cnn.com/interactive/2024/06/climate/panama-climate-refugees-guna-rising-seas-cnnphotos/)|
@@ -18,3 +19,4 @@
 | 温暖化 | 28-07-2024 | [Iran announces 1-day nationwide closures due to unprecedented heat](https://www.shine.cn/news/world/2407279727/) |
 | 回教 |05-08-2024|[How the prime minister’s crackdown weakened her grip on power.](https://www.nytimes.com/live/2024/08/05/world/bangladesh-protests/the-prime-ministers-crackdown-rained-carnage-on-bangladesh?smid=url-share)|
 |||![](https://static01.nyt.com/images/2024/08/05/multimedia/05bangladesh-hasina-VERSION-rock/05bangladesh-hasina-VERSION-rock-jumbo-v2.jpg)|
+| 回教 | 06-08-2024 |[SCBA president to India: Arrest, send back Sheikh Hasina, Rehana](https://www.dhakatribune.com/bangladesh/353901/scba-president-urges-india-arrest-send-back)|
